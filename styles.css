@@ -58,6 +58,16 @@ position:relative;
     width:3.5rem;
 }
 
+.credit{
+    position: absolute;
+    top: 75vh;
+    font-size:0.9rem;
+}
+
+.credit a{
+    color:steelblue;
+}
+
 /* Right side */
 
 li{
@@ -145,5 +155,5 @@ button:hover{
 }
 
 .logIn{
-    color:#b0e9dc
+    color:steelblue;
 }
