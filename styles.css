@@ -95,15 +95,22 @@ li+li{
     
 }
 
+
 .input{
-  
-padding:1rem
+    width:40%;
+    margin-top:3%;
+    text-transform:uppercase;
 }
 
 input{
     padding-right:1rem;
     margin-right:8vh;
-    padding:0.2rem
+    padding:0.4rem;
+    padding-right:6rem;
+    border: 2px solid gray;
+    border-radius: 4px;
+
+    
 }
 
 
